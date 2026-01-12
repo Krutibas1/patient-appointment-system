@@ -1,0 +1,1 @@
+-- Database structure for patient appointment and prescription management system
